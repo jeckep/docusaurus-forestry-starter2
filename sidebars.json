@@ -1,6 +1,10 @@
 {
   "someSidebar": {
-    "Docusaurus": ["doc1", "doc2", "doc3"],
-    "Features": ["mdx"]
+    "eDisc": [
+      "edisc/help1",
+      "edisc/help2",
+      "edisc/help3"
+    ],
+    "Docusaurus": ["doc1", "doc2", "doc3", "mdx"]
   }
 }
