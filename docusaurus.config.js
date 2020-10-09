@@ -86,13 +86,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/',
+            'https://github.com/jeckep/docusaurus-forestry-starter2/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/blog/',
+            'https://github.com/jeckep/docusaurus-forestry-starter2/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
